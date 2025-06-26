@@ -9,7 +9,7 @@ MixColumns adalah salah satu langkah dalam algoritma enkripsi AES yang melakukan
 ## Cara Menjalankan
 
 ```bash
-git clone https://github.com/username/aes-mixcolumns-helper.git
+git clone https://github.com/khairunnisa0101/AES-MixColumns.git
 cd aes-mixcolumns-helper
 python mix_columns_verbose.py
 ```
