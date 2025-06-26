@@ -2,11 +2,11 @@
 
 Proyek ini adalah **alat bantu pribadi** yang saya buat untuk **mempermudah proses manual MixColumns dalam algoritma AES**.
 
-## 🧠 Apa itu MixColumns?
+## Apa itu MixColumns?
 
 MixColumns adalah salah satu langkah dalam algoritma enkripsi AES yang melakukan **difusi** data antar byte dalam kolom. Ini dilakukan dengan perkalian matriks tetap dan operasi di medan hingga (Galois Field 2^8), yang tidak bisa dihitung seperti perkalian biasa.
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ```bash
 git clone https://github.com/username/aes-mixcolumns-helper.git
