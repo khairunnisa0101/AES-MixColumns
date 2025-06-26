@@ -10,8 +10,12 @@ MixColumns adalah salah satu langkah dalam algoritma enkripsi AES yang melakukan
 
 ```bash
 git clone https://github.com/khairunnisa0101/AES-MixColumns.git
-cd aes-mixcolumns-helper
+cd AES-MixColumns
 python mix_columns_verbose.py
+```
+atau kamu menggunakan Python 3:
+```
+python3 mix_columns_verbose.py
 ```
 ## Contoh Input
 ```
